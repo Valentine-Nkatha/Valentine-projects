@@ -1,0 +1,23 @@
+#end{
+    max-width: 1000px;
+    height: 600px;
+    background-color: #2A4858;
+    display: grid;
+    margin-left:20% ;
+    margin-top: 10%;
+    
+}
+#buttons{
+    
+    width: 100px;
+    height: 60px;
+    margin-left: 40%;
+    padding: 15px 32px;
+   
+}
+#button{
+    margin-top: 5%;
+    width: 100px;
+    height: 60px;
+    margin-left: 40%;
+}

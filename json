@@ -1,0 +1,27 @@
+{"Course": "Science",
+"noOfQuestions":5,
+"data":[
+    {"Question":"What is Your Name",
+      "Answer":"Valentine",
+      "Options":["Jane","Mary","Mercy","Erick"]
+
+    },
+    {"Question":"What is your age?",
+     "Answer":20,
+      "Options":[20,30,40,60]},
+
+    {"Question":"What is your age?",
+    "Answer":20,
+    "Options":[20,30,40,60]},
+
+
+    {"Question":"What is your age?",
+    "Answer":20,
+    "Options":[20,30,40,60]},
+    
+    {"Question":"What is your age?",
+     "Answer":20,
+      "Options":[20,30,40,60]}
+
+]
+}
